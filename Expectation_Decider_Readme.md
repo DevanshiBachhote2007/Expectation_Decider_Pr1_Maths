@@ -12,7 +12,7 @@
 [![Explore Analysis](https://img.shields.io/badge/Explore-Analysis-green)](https://github.com/DevanshiBachhote2007/Expectation_Decider_Pr1_Maths#analysis-workflow)
 [![View Insights](https://img.shields.io/badge/View-Insights-blue)](https://github.com/DevanshiBachhote2007/Expectation_Decider_Pr1_Maths#key-findings)
 [![Download Data](https://img.shields.io/badge/Download-Data-orange)](Student_Dataset.csv)
-[![Documentation](https://img.shields.io/badge/Documentation-View-purple)](https://docs.google.com/document/d/19SRd0N1yGJNn-tiI-aD7c7M0NiEBaixCmDRBsljkJVY/edit?tab=t.0)
+[![Documentation](https://img.shields.io/badge/Question-Link-purple)](https://docs.google.com/document/d/19SRd0N1yGJNn-tiI-aD7c7M0NiEBaixCmDRBsljkJVY/edit?tab=t.0)
 
 </div>
 
@@ -139,8 +139,7 @@ Watch the narrated walkthrough of this project here: [Watch Video Explanation](h
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**Devanshi Bachhote**  
-Student  
+**Devanshi Bachhote**   
 📧 Email: devanshibachhote.@gmail.com  
 
 
