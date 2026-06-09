@@ -8,9 +8,9 @@
 [![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)](Expectation_Decider_Main.ipynb) [![Dataset](https://img.shields.io/badge/Dataset-CSV-blue?logo=filezilla)](Student_Dataset.csv)
 
 <div align="center">
-  
-[![Explore Analysis](https://img.shields.io/badge/Explore-Analysis-green)](https://github.com/DevanshiBachhote2007/Expectation_Decider_Pr1_Maths#analysis-workflow)
-[![View Insights](https://img.shields.io/badge/View-Insights-blue)](https://github.com/DevanshiBachhote2007/Expectation_Decider_Pr1_Maths#key-findings)
+ 
+[![Explore Analysis](https://img.shields.io/badge/Explore-Analysis-green)](https://github.com/DevanshiBachhote2007/Expectation_Decider_Pr1_Maths/blob/main/Expectation_Decider_Readme.md#analysis-workflow)
+[![View Insights](https://img.shields.io/badge/View-Insights-blue)](https://github.com/DevanshiBachhote2007/Expectation_Decider_Pr1_Maths/blob/main/Expectation_Decider_Readme.md#key-findings)
 [![Download Data](https://img.shields.io/badge/Download-Data-orange)](https://github.com/DevanshiBachhote2007/Expectation_Decider_Pr1_Maths/blob/main/Student_Dataset.csv)
 [![Documentation](https://img.shields.io/badge/Question-Link-purple)](https://docs.google.com/document/d/19SRd0N1yGJNn-tiI-aD7c7M0NiEBaixCmDRBsljkJVY/edit?tab=t.0)
 
