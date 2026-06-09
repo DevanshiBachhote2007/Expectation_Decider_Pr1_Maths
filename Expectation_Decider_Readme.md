@@ -1,18 +1,19 @@
 <div align="center">
   <h1>🎯 Expectation Decider Main</h1>
-  <p><em>A probability and statistics project that analyzes student exam outcomes to explain expectations, conditional probability, distributions, and decision-making using a synthetic student dataset.</em></p>
+  <p><em>A probability and statistics project that analyzes student exam outcomes to explain expectations, conditional probability, distributions, and decision-making using a synthetic student dataset</em></p>
 </div>
 
 ---
 
-[![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)](Expectation_Decider_Main.ipynb) [![Dataset](https://img.shields.io/badge/Dataset-CSV-blue?logo=filezilla)](Student_Dataset.csv) [![Run in Notebook](https://img.shields.io/badge/Run%20Notebook-Start-green)](Expectation_Decider_Main.ipynb)
+[![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)](Expectation_Decider_Main.ipynb) [![Dataset](https://img.shields.io/badge/Dataset-CSV-blue?logo=filezilla)](Student_Dataset.csv)
 
 <div align="center">
-  <a href="#analysis-workflow" style="display:inline-block;padding:10px 18px;margin:5px;background:#4CAF50;color:white;border-radius:6px;text-decoration:none;font-weight:bold;">Explore Analysis</a>
-  <a href="#key-findings" style="display:inline-block;padding:10px 18px;margin:5px;background:#2196F3;color:white;border-radius:6px;text-decoration:none;font-weight:bold;">View Insights</a>
-  <a href="Student_Dataset.csv" style="display:inline-block;padding:10px 18px;margin:5px;background:#FF9800;color:white;border-radius:6px;text-decoration:none;font-weight:bold;">Download Data</a>
-  <a href="https://docs.google.com/document/d/19SRd0N1yGJNn-tiI-aD7c7M0NiEBaixCmDRBsljkJVY/edit?tab=t.0" style="display:inline-block;padding:10px 18px;margin:5px;background:#9C27B0;color:white;border-radius:6px;text-decoration:none;font-weight:bold;">Question File</a>
   
+[![Explore Analysis](https://img.shields.io/badge/Explore-Analysis-green)](https://github.com/DevanshiBachhote2007/Expectation_Decider_Pr1_Maths#analysis-workflow)
+[![View Insights](https://img.shields.io/badge/View-Insights-blue)](https://github.com/DevanshiBachhote2007/Expectation_Decider_Pr1_Maths#key-findings)
+[![Download Data](https://img.shields.io/badge/Download-Data-orange)](Student_Dataset.csv)
+[![Documentation](https://img.shields.io/badge/Documentation-View-purple)](https://docs.google.com/document/d/19SRd0N1yGJNn-tiI-aD7c7M0NiEBaixCmDRBsljkJVY/edit?tab=t.0)
+
 </div>
 
 ---
@@ -34,7 +35,7 @@
 
 <h2><a class="anchor" id="overview"></a>Overview</h2>
 
-`Expectation_Decider_Main.ipynb` explores how probability theory and empirical data combine to explain student exam success. The project uses a cohort of 200 students to estimate pass likelihoods, evaluate event dependencies, and compute expected outcomes for decision-making.
+`Expectation_Decider_Main.ipynb` explores how probability theory and empirical data combine to explain student exam success. The project uses a cohort of 200 students to estimate pass likelihoods, evaluate conditional probabilities, and demonstrate decision-making under uncertainty using real behavioral factors.
 
 ---
 <h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
@@ -128,7 +129,7 @@ pip install pandas numpy matplotlib seaborn scipy
 ---
 <h2><a class="anchor" id="conclusion"></a>Conclusion</h2>
 
-This project demonstrates how empirical student data can be used to make evidence-based probability decisions. The analysis highlights that attendance and group study behavior provide meaningful predictive power for exam success, while a simple blind 50/50 assumption underestimates the actual pass probability.
+This project demonstrates how empirical student data can be used to make evidence-based probability decisions. The analysis highlights that attendance and group study behavior provide meaningful predictors of exam success, validating the use of conditional probability and Bayes' Theorem in educational contexts.
 
 ---
 <h2><a class="anchor" id="video-explanation"></a>Video Explanation</h2>
