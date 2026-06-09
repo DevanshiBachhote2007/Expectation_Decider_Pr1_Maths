@@ -138,11 +138,6 @@ Watch the narrated walkthrough of this project here: [Watch Video Explanation](h
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-This project demonstrates how empirical student data can be used to make evidence-based probability decisions. The analysis highlights that attendance and group study behavior provide meaningful predictive power for exam success, while a simple blind 50/50 assumption underestimates the actual pass probability.
-
----
-<h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
-
 **Devanshi Bachhote**  
 Student  
 📧 Email: devanshibachhote.@gmail.com  
