@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🎯 Expectation Decider Main</h1>
-  <p><em>A probability and statistics project that analyzes student exam outcomes to explain expectations, conditional probability, distributions, and decision-making using a synthetic student dataset</em></p>
+  <p><em>A probability and statistics project that analyzes student exam outcomes to explain expectations, conditional probability, distributions, and decision-making using a synthetic student dataset.</em></p>
 </div>
 
 ---
@@ -11,7 +11,7 @@
   
 [![Explore Analysis](https://img.shields.io/badge/Explore-Analysis-green)](https://github.com/DevanshiBachhote2007/Expectation_Decider_Pr1_Maths#analysis-workflow)
 [![View Insights](https://img.shields.io/badge/View-Insights-blue)](https://github.com/DevanshiBachhote2007/Expectation_Decider_Pr1_Maths#key-findings)
-[![Download Data](https://img.shields.io/badge/Download-Data-orange)](Student_Dataset.csv)
+[![Download Data](https://img.shields.io/badge/Download-Data-orange)](https://github.com/DevanshiBachhote2007/Expectation_Decider_Pr1_Maths/blob/main/Student_Dataset.csv)
 [![Documentation](https://img.shields.io/badge/Question-Link-purple)](https://docs.google.com/document/d/19SRd0N1yGJNn-tiI-aD7c7M0NiEBaixCmDRBsljkJVY/edit?tab=t.0)
 
 </div>
@@ -35,7 +35,7 @@
 
 <h2><a class="anchor" id="overview"></a>Overview</h2>
 
-`Expectation_Decider_Main.ipynb` explores how probability theory and empirical data combine to explain student exam success. The project uses a cohort of 200 students to estimate pass likelihoods, evaluate conditional probabilities, and demonstrate decision-making under uncertainty using real behavioral factors.
+`Expectation_Decider_Main.ipynb` explores how probability theory and empirical data combine to explain student exam success. The project uses a cohort of 200 students to estimate pass likelihoods, evaluate conditional probabilities, and apply statistical decision-making frameworks.
 
 ---
 <h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
@@ -129,7 +129,7 @@ pip install pandas numpy matplotlib seaborn scipy
 ---
 <h2><a class="anchor" id="conclusion"></a>Conclusion</h2>
 
-This project demonstrates how empirical student data can be used to make evidence-based probability decisions. The analysis highlights that attendance and group study behavior provide meaningful predictors of exam success, validating the use of conditional probability and Bayes' Theorem in educational contexts.
+This project demonstrates how empirical student data can be used to make evidence-based probability decisions. The analysis highlights that attendance and group study behavior provide meaningful predictors of exam success, validating both classical probability concepts and empirical validation through real-world data.
 
 ---
 <h2><a class="anchor" id="video-explanation"></a>Video Explanation</h2>
@@ -140,6 +140,5 @@ Watch the narrated walkthrough of this project here: [Watch Video Explanation](h
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
 **Devanshi Bachhote**   
-📧 Email: devanshibachhote.@gmail.com  
-
+📧 Email: devanshibachhote@gmail.com  
 
